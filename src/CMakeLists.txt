@@ -1,0 +1,2 @@
+add_subdirectory(mtcnn)
+add_subdirectory(mtcnn_test)
