@@ -5,7 +5,7 @@ Face detection and landmark implementation with mtcnn based on ncnn framework.
 
 1. This project is modified from https://github.com/Longqi-S/ncnn-mtcnn.git;    
 2. I compiled ncnn on RK3399, ubuntu 16.04,if you use other platform, replace ncnn include files and libncnn.a;
-3. mkdir bin    
+
 
 ## Quick Start
 
