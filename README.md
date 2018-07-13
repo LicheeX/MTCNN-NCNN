@@ -11,11 +11,18 @@ Face detection and landmark implementation with mtcnn based on ncnn framework.
 
 ```
 mkdir bin
+
 mkdir build
 
 cd build
+
 cmake ..
+
 make
+
+cd ../bin
+
+./mtcnn_test
 
 ```
 if you use other platform, compile ncnn project first and replace releated include files and libncnn.a in this project. (https://github.com/Tencent/ncnn.git)
